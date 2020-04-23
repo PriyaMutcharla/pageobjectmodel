@@ -42,7 +42,7 @@ public class Page {
 	public ExtentReports rep = ExtentManager.getInstance();
 	public static ExtentTest test;
 	public static String browser;
-
+    //changes made
 	public static TopMenu menu;
 	/*
 	 * Logs,
